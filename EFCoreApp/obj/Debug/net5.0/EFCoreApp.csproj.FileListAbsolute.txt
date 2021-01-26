@@ -1,0 +1,12 @@
+C:\workspace\EFCoreDemo\EFCoreApp\bin\Debug\net5.0\EFCoreApp.deps.json
+C:\workspace\EFCoreDemo\EFCoreApp\bin\Debug\net5.0\EFCoreApp.dll
+C:\workspace\EFCoreDemo\EFCoreApp\bin\Debug\net5.0\ref\EFCoreApp.dll
+C:\workspace\EFCoreDemo\EFCoreApp\bin\Debug\net5.0\EFCoreApp.pdb
+C:\workspace\EFCoreDemo\EFCoreApp\obj\Debug\net5.0\EFCoreApp.csprojAssemblyReference.cache
+C:\workspace\EFCoreDemo\EFCoreApp\obj\Debug\net5.0\EFCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\EFCoreDemo\EFCoreApp\obj\Debug\net5.0\EFCoreApp.AssemblyInfoInputs.cache
+C:\workspace\EFCoreDemo\EFCoreApp\obj\Debug\net5.0\EFCoreApp.AssemblyInfo.cs
+C:\workspace\EFCoreDemo\EFCoreApp\obj\Debug\net5.0\EFCoreApp.csproj.CoreCompileInputs.cache
+C:\workspace\EFCoreDemo\EFCoreApp\obj\Debug\net5.0\EFCoreApp.dll
+C:\workspace\EFCoreDemo\EFCoreApp\obj\Debug\net5.0\ref\EFCoreApp.dll
+C:\workspace\EFCoreDemo\EFCoreApp\obj\Debug\net5.0\EFCoreApp.pdb
