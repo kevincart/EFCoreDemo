@@ -5794,6 +5794,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Microsoft.EntityFrameworkCore >= 5.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 1.1.6",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 5.0.2",
       "Swashbuckle.AspNetCore >= 5.6.3"
@@ -5842,6 +5843,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[5.0.2, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "target": "Package",
             "version": "[1.1.6, )"
